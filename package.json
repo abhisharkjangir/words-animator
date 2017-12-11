@@ -1,6 +1,6 @@
 {
   "name": "words-animator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "words-animator is a react component, which can be used to replace a part of string with an array of words with some great and smooth animation.",
   "keywords": "words animator, animate words, replace words, rotate words",
   "main": "build/index.js",

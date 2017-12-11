@@ -25,7 +25,7 @@ class YourcomponentName extends React.Component {
 ```
 
 ### #Props
-  * partialSentence : "String" | "An sentence in which you want to place your words." | OPTIONAL
+  * partialSentence : "String" | "A sentence in which you want to place your words." | OPTIONAL
   * words : "String" | "An array or words." | MANDATORY | MAX-LENGTH - 6
   * style : "String" | Default - rw-words-1 | [rw-words-1, rw-words-2, rw-words-3, rw-words-4]
 
